@@ -1,5 +1,5 @@
 {
-  "name": "hello-node-rust",
+  "name": "hello-node-rusts",
   "version": "1.0.1",
   "description": "a example .node file by rust",
   "main": "./lib/index.node",
@@ -10,5 +10,9 @@
     "rust"
   ],
   "author": "shenyanxiu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:shenyanxiu/hello-node-rusts.git"
+  }
 }
